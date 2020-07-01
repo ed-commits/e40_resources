@@ -3,8 +3,9 @@
 ## CSS
 
 * [CSS inspiration] https://www.awwwards.com/
-* [free fonts] https://fonts.google.com/
 * [CSS reference] https://developer.mozilla.org/en-US/docs/Web/CSS
+* [CSS guides] https://css-tricks.com/guides/
+* [free fonts] https://fonts.google.com/
 
 ## HTML
 
