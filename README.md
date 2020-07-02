@@ -7,6 +7,11 @@
 * [CSS guides] https://css-tricks.com/guides/
 * [free fonts] https://fonts.google.com/
 
+## GRAPHICS
+* [Guide for working with SVGs] https://jakearchibald.github.io/svgomg/
+* [Free Icons] https://www.flaticon.com/
+* [Free design tool] https://inkscape.org/
+
 ## HTML
 
 * [MDN documentation] https://developer.mozilla.org/en-US/docs/Web
