@@ -6,6 +6,7 @@
 * [CSS reference] https://developer.mozilla.org/en-US/docs/Web/CSS
 * [CSS guides] https://css-tricks.com/guides/
 * [free fonts] https://fonts.google.com/
+* [easy box shadow creater] https://www.cssmatic.com/box-shadow
 
 ## GRAPHICS
 * [Guide for working with SVGs] https://jakearchibald.github.io/svgomg/
