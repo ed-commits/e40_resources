@@ -7,6 +7,7 @@
 * [CSS guides] https://css-tricks.com/guides/
 * [free fonts] https://fonts.google.com/
 * [easy box shadow creater] https://www.cssmatic.com/box-shadow
+* [BEM] naming convention http://getbem.com/introduction/
 
 ## GRAPHICS
 * [Guide for working with SVGs] https://jakearchibald.github.io/svgomg/
