@@ -5,6 +5,7 @@
 * [CSS inspiration] https://www.awwwards.com/
 * [CSS reference] https://developer.mozilla.org/en-US/docs/Web/CSS
 * [CSS guides] https://css-tricks.com/guides/
+* [layouts] https://web.dev/one-line-layouts/
 * [free fonts] https://fonts.google.com/
 * [easy box shadow creater] https://www.cssmatic.com/box-shadow
 * [BEM] naming convention http://getbem.com/introduction/
@@ -22,6 +23,7 @@
 
 * [Javascript array functions] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 * https://developer.mozilla.org/en-US/docs/Web/CSS
+* https://javascript.info/
 
 # Ruby
 
