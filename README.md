@@ -6,6 +6,7 @@
 * [CSS reference] https://developer.mozilla.org/en-US/docs/Web/CSS
 * [CSS guides] https://css-tricks.com/guides/
 * [layouts] https://web.dev/one-line-layouts/
+* [wish i'd known] https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
 * [free fonts] https://fonts.google.com/
 * [easy box shadow creater] https://www.cssmatic.com/box-shadow
 * [BEM] naming convention http://getbem.com/introduction/
