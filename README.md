@@ -29,3 +29,7 @@
 # Ruby
 
 * [Ruby array enumerators] https://ruby-doc.org/core-2.7.1/Enumerable.html
+
+# Job Hunting
+
+* [Front End Interview Handbook] https://yangshun.github.io/front-end-interview-handbook/
