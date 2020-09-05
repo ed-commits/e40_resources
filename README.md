@@ -21,6 +21,9 @@
 
 * [MDN documentation] https://developer.mozilla.org/en-US/docs/Web
 
+## Web Design in General
+* https://www.youtube.com/c/GoogleChromeDevelopers/videos
+
 ## Javascript
 
 * [Javascript array functions] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
